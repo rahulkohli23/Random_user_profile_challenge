@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Random_user_profile_challenge/static/css/main.a617e044.chunk.css",
+    "main.js": "/Random_user_profile_challenge/static/js/main.17950762.chunk.js",
+    "main.js.map": "/Random_user_profile_challenge/static/js/main.17950762.chunk.js.map",
+    "runtime-main.js": "/Random_user_profile_challenge/static/js/runtime-main.58ccbb25.js",
+    "runtime-main.js.map": "/Random_user_profile_challenge/static/js/runtime-main.58ccbb25.js.map",
+    "static/js/2.25a1cf5e.chunk.js": "/Random_user_profile_challenge/static/js/2.25a1cf5e.chunk.js",
+    "static/js/2.25a1cf5e.chunk.js.map": "/Random_user_profile_challenge/static/js/2.25a1cf5e.chunk.js.map",
+    "static/js/3.7eb4ba20.chunk.js": "/Random_user_profile_challenge/static/js/3.7eb4ba20.chunk.js",
+    "static/js/3.7eb4ba20.chunk.js.map": "/Random_user_profile_challenge/static/js/3.7eb4ba20.chunk.js.map",
+    "index.html": "/Random_user_profile_challenge/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Random_user_profile_challenge/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.25a1cf5e.chunk.js.LICENSE.txt": "/Random_user_profile_challenge/static/js/2.25a1cf5e.chunk.js.LICENSE.txt",
+    "static/media/background.2929657b.jpg": "/Random_user_profile_challenge/static/media/background.2929657b.jpg",
+    "static/media/profile.bfa8d19d.jpg": "/Random_user_profile_challenge/static/media/profile.bfa8d19d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ccbb25.js",
+    "static/js/2.25a1cf5e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.17950762.chunk.js"
+  ]
+}
